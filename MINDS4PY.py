@@ -84,18 +84,20 @@ class MINDS():
 
     def __check_kwargs4block(self, blocktemp, **kwargs):
         """
-        A hiddend class method that checks kwargs according t their block
+        A hiddend class method that checks
+        kwargs according to their block
+        check if key blongs to block
+        check if value type is correct
 
         Parameters
         ----------
-        sound : str, optional
-            The sound the animal makes (default is None)
+        blocktemp : An attribute of the MINDS class
+
+        kwargs: if not added, block keys will be created with alue none
 
         Raises
         ------
-        NotImplementedError
-            If no sound is set for the animal or passed in as a
-            parameter.
+        return an error list if error is found
 
         """
         self.error = []
@@ -135,15 +137,16 @@ class MINDS():
 
     def create_block(self, blocktemp, id, **kwargs):
         """
-        This Class method will check
-        if all entered kewargs are part of
-        the to be created block or if important keys are missing
+        This Class method will call pervious method and create block
         It will also automatically add the @type with rest of kewargs .
 
         Parameters
         ----------
         blocktemp : An attribute of the MINDS class,
             It should be one of the blocks listed in the MINDS.uniminds.blocks
+
+        kwargs: if not added, block keys will be created with alue none
+
 
         Raises
         ------
