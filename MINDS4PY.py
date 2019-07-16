@@ -1,7 +1,4 @@
-import os
-import requests
-import json
-import copy
+import os, copy, json, requests
 
 
 class MINDS():
