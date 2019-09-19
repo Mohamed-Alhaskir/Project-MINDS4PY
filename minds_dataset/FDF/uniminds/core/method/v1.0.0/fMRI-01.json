@@ -1,0 +1,29 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Method/v1.0.0",
+    "@id": "fMRI-01.json",
+    "description": "This the is main MRI method block connected to all other fMRI files",
+    "identifier": null,
+    "name": null,
+    "brain_structure": null,
+    "ethics_approval": null,
+    "experimental_preparation": null,
+    "full_name": null,
+    "method_category": null,
+    "publication": null,
+    "study_target": null,
+    "sub_method": null,
+    "method": [
+        {
+            "@id": "sub-01_ses-01_task-rest_run-01.json"
+        },
+        {
+            "@id": "sub-01_ses-02_task-rest_run-01.json"
+        },
+        {
+            "@id": "sub-02_task-rest_run-01_bold.nii.gz.json"
+        },
+        {
+            "@id": "sub-03_task-rest_run-01_bold.nii.gz.json"
+        }
+    ]
+}

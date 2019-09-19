@@ -1,0 +1,5 @@
+{
+    "@id": "adult.json",
+    "@type": "https://schema.hbp.eu/uniminds/options/Age_category/v1.0.0",
+    "Name": "adult"
+}

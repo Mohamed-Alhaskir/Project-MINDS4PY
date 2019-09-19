@@ -1,0 +1,29 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Method/v1.0.0",
+    "@id": "inplaneT2.json",
+    "description": null,
+    "identifier": null,
+    "name": null,
+    "brain_structure": null,
+    "ethics_approval": null,
+    "experimental_preparation": null,
+    "full_name": null,
+    "method_category": null,
+    "publication": null,
+    "study_target": null,
+    "sub_method": null,
+    "method": [
+        {
+            "@id": "sub-01_ses-01_inplaneT2.json"
+        },
+        {
+            "@id": "sub-01_ses-02_inplaneT2.json"
+        },
+        {
+            "@id": "sub-02_inplaneT2.json"
+        },
+        {
+            "@id": "sub-03_inplaneT2.json"
+        }
+    ]
+}

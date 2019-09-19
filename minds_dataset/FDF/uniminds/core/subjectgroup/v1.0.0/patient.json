@@ -1,0 +1,52 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Subjectgroup/v1.0.0",
+    "@id": "patient.json",
+    "description": null,
+    "identifier": null,
+    "name": null,
+    "age_category": [
+        {
+            "@id": "adult.json"
+        },
+        {
+            "@id": "juvenile.json"
+        }
+    ],
+    "age_range_max": null,
+    "age_range_min": null,
+    "brain_structure": null,
+    "disability": null,
+    "genotype": null,
+    "handedness": [
+        {
+            "@id": "L.json"
+        },
+        {
+            "@id": "R.json"
+        }
+    ],
+    "method": null,
+    "num_of_subjects": null,
+    "publication": null,
+    "sex": [
+        {
+            "@id": "F.json"
+        },
+        {
+            "@id": "M.json"
+        }
+    ],
+    "species": null,
+    "strain": null,
+    "study_target": null,
+    "subjects": [
+        {
+            "@id": "sub-01.json"
+        },
+        {
+            "@id": "sub-02.json"
+        }
+    ],
+    "subject_group": null,
+    "instance": null
+}

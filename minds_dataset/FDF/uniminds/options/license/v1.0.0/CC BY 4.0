@@ -1,0 +1,7 @@
+{
+    "@id": "CC BY 4.0",
+    "@type": "https://schema.hbp.eu/uniminds/options/license/v1.0.0",
+    "identifier": "CC BY 4.0",
+    "fullname": " Creative Commons with Attribution alone",
+    "url": "https://creativecommons.org/"
+}

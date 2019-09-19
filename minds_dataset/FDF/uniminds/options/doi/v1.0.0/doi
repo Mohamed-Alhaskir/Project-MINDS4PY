@@ -1,0 +1,6 @@
+{
+    "@id": "doi",
+    "@type": "https://schema.hbp.eu/uniminds/options/doi/v1.0.0",
+    "citation": "Please cite this dataset: Alhaskir and Zehl(2019)",
+    "identifier": "Requested"
+}

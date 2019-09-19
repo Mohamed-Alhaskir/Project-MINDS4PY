@@ -1,0 +1,6 @@
+{
+    "@id": "R.json",
+    "@type": "https://schema.hbp.eu/uniminds/options/Handness/v1.0.0",
+    "Name": "Right",
+    "Description": "handedness of the participant as reported by the participant"
+}

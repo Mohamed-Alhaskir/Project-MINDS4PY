@@ -1,0 +1,21 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Filebundle/v1.0.0",
+    "@id": "main filebundle.json",
+    "description": "This filebundle contains all dataset URLs",
+    "identifier": null,
+    "name": "main filebundle",
+    "url": "['C:/Users/Asus T102 H/Desktop/ds001/sub-01/ses-01/anat/sub-01_ses-01_inplaneT2.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-01/ses-01/anat/sub-01_ses-01_T1w.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-01/ses-01/func/sub-01_ses-01_task-rest_run-01_bold.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-01/ses-02/anat/sub-01_ses-02_inplaneT2.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-01/ses-02/anat/sub-01_ses-02_T1w.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-01/ses-02/func/sub-01_ses-02_task-rest_run-01_bold.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-02/anat/sub-02_inplaneT2.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-02/anat/sub-02_T1w.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-02/func/sub-02_task-rest_run-01_bold.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-03/anat/sub-03_inplaneT2.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-03/anat/sub-03_T1w.nii.gz', 'C:/Users/Asus T102 H/Desktop/ds001/sub-03/func/sub-03_task-rest_run-01_bold.nii.gz']",
+    "brain_structure": null,
+    "file": null,
+    "file_bundle": null,
+    "method": null,
+    "mime_type": null,
+    "model_instance": null,
+    "publication": null,
+    "study_target": null,
+    "subject": null,
+    "subject_group": null,
+    "usage_notes": null,
+    "instance": null,
+    "main_file_bundle": null
+}

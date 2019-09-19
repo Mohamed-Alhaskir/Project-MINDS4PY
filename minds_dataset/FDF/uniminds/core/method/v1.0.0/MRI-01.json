@@ -1,0 +1,27 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Method/v1.0.0",
+    "@id": "MRI-01.json",
+    "description": "This the is main MRI method block connected to all other MRI files",
+    "identifier": null,
+    "name": null,
+    "brain_structure": null,
+    "ethics_approval": null,
+    "experimental_preparation": null,
+    "full_name": null,
+    "method_category": null,
+    "publication": null,
+    "study_target": null,
+    "sub_method": [
+        {
+            "@id": "inplaneT2.json"
+        },
+        {
+            "@id": "T1w.json"
+        }
+    ],
+    "method": [
+        {
+            "@id": "FDF.json"
+        }
+    ]
+}

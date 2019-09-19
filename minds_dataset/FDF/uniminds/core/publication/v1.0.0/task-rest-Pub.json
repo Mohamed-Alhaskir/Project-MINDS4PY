@@ -1,0 +1,14 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Publication/v1.0.0",
+    "@id": "task-rest-Pub.json",
+    "identifier": " task-rest",
+    "name": null,
+    "url": "",
+    "brain_structure": null,
+    "project": null,
+    "publication_id": null,
+    "study_target": null,
+    "subject_group": null,
+    "instance": null,
+    "publication": null
+}

@@ -1,0 +1,33 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Method/v1.0.0",
+    "@id": "task-rest.json",
+    "description": " RepetitionTime: 2",
+    "identifier": "task-rest",
+    "name": "Balloon Analog Risk",
+    "brain_structure": null,
+    "ethics_approval": null,
+    "experimental_preparation": null,
+    "full_name": null,
+    "method_category": null,
+    "publication": [
+        {
+            "@id": "task-rest-Pub.json"
+        }
+    ],
+    "study_target": null,
+    "sub_method": null,
+    "method": [
+        {
+            "@id": "sub-01_ses-01_task-rest_run-01.json"
+        },
+        {
+            "@id": "sub-01_ses-02_task-rest_run-01.json"
+        },
+        {
+            "@id": "sub-02_task-rest_run-01_bold.nii.gz.json"
+        },
+        {
+            "@id": "sub-03_task-rest_run-01_bold.nii.gz.json"
+        }
+    ]
+}

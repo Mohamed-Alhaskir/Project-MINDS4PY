@@ -1,0 +1,23 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/File/v1.0.0",
+    "@id": "sub-02_inplaneT2.json",
+    "description": null,
+    "identifier": null,
+    "name": "sub-02_inplaneT2",
+    "url": "C:/Users/Asus T102 H/Desktop/ds001/sub-02/anat/sub-02_inplaneT2.nii.gz",
+    "brain_structure": null,
+    "method": [
+        {
+            "@id": "inplaneT2.json"
+        }
+    ],
+    "mime_type": null,
+    "study_target": null,
+    "subject": [
+        {
+            "@id": "sub-02.json"
+        }
+    ],
+    "subject_group": null,
+    "file": null
+}

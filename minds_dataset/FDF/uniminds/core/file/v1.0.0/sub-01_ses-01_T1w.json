@@ -1,0 +1,23 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/File/v1.0.0",
+    "@id": "sub-01_ses-01_T1w.json",
+    "description": null,
+    "identifier": null,
+    "name": "sub-01_ses-01_T1w",
+    "url": "C:/Users/Asus T102 H/Desktop/ds001/sub-01/ses-01/anat/sub-01_ses-01_T1w.nii.gz",
+    "brain_structure": null,
+    "method": [
+        {
+            "@id": "T1w.json"
+        }
+    ],
+    "mime_type": null,
+    "study_target": null,
+    "subject": [
+        {
+            "@id": "sub-01.json"
+        }
+    ],
+    "subject_group": null,
+    "file": null
+}

@@ -1,0 +1,48 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Subject/v1.0.0",
+    "@id": "sub-03.json",
+    "identifier": null,
+    "name": null,
+    "age": "50, unit: years",
+    "age_category": [
+        {
+            "@id": "adult.json"
+        }
+    ],
+    "age_range_max": null,
+    "age_range_min": null,
+    "brainstructure": null,
+    "disability": null,
+    "genotype": null,
+    "handedness": [
+        {
+            "@id": "L.json"
+        }
+    ],
+    "method": null,
+    "publication": null,
+    "sex": [
+        {
+            "@id": "M.json"
+        }
+    ],
+    "species": [
+        {
+            "@id": "species.json"
+        }
+    ],
+    "strain": null,
+    "study_target": null,
+    "subject": [
+        {
+            "@id": "sub-03_inplaneT2.json"
+        },
+        {
+            "@id": "sub-03_T1w.json"
+        },
+        {
+            "@id": "sub-03_task-rest_run-01_bold.nii.gz.json"
+        }
+    ],
+    "subjects": null
+}

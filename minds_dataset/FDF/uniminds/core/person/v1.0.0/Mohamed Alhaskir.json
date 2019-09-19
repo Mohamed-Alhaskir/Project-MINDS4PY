@@ -1,0 +1,24 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Person/v1.0.0",
+    "@id": "Mohamed Alhaskir.json",
+    "email": null,
+    "family_name": "Alhaskir",
+    "given_name": "Mohamed",
+    "identifier": "mc",
+    "name": "Mohamed Alhaskir",
+    "orcid": null,
+    "custodian": [
+        {
+            "@id": "Lyuba Zehl.json"
+        }
+    ],
+    "component_owner": null,
+    "instance": null,
+    "main_contact": [
+        {
+            "@id": "ds001.json"
+        }
+    ],
+    "contributor": null,
+    "coordinator": null
+}

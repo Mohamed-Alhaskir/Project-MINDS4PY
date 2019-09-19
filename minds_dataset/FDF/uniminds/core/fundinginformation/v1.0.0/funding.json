@@ -1,0 +1,12 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Fundinginformation/v1.0.0",
+    "@id": "funding.json",
+    "identifier": "FI",
+    "name": "['This project was funded by xxx Grant 123456', 'This project was funded by yyy Grant 789']",
+    "grant_id": null,
+    "funding_information": [
+        {
+            "@id": "ds001.json"
+        }
+    ]
+}

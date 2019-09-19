@@ -1,0 +1,18 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Publication/v1.0.0",
+    "@id": "publication-01.json",
+    "identifier": "Pub",
+    "name": null,
+    "url": "['https://github.com/bids-standard/bids-examples/blob/master/ds001', 'https://doi.org/10.1038/sdata.2016.44']",
+    "brain_structure": null,
+    "project": null,
+    "publication_id": null,
+    "study_target": null,
+    "subject_group": null,
+    "instance": null,
+    "publication": [
+        {
+            "@id": "ds001.json"
+        }
+    ]
+}

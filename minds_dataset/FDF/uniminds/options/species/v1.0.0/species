@@ -1,0 +1,11 @@
+{
+    "@id": "species",
+    "@type": "https://schema.hbp.eu/uniminds/options/species/v1.0.0",
+    "name": "Homo sapiens",
+    "Identifier": "HS",
+    "species": [
+        {
+            "@id": "ds001"
+        }
+    ]
+}

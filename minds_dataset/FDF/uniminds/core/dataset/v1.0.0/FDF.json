@@ -1,0 +1,69 @@
+{
+    "@type": "https://schema.hbp.eu/uniminds/core/Dataset/v1.0.0",
+    "@id": "FDF.json",
+    "description": "['We thank all that helped to collect these data.']",
+    "identifier": "ds001",
+    "name": "FDF",
+    "brain_structure": null,
+    "contributor": null,
+    "created_as": null,
+    "custodian": [
+        {
+            "@id": "Lyuba Zehl.json"
+        }
+    ],
+    "doi": [
+        {
+            "@id": "doi.json"
+        }
+    ],
+    "embargo_status": null,
+    "ethics_approval": null,
+    "funding_information": [
+        {
+            "@id": "funding.json"
+        }
+    ],
+    "hbp_component": null,
+    "intended_release_date": null,
+    "license": [
+        {
+            "@id": "CC BY 4.0.json"
+        }
+    ],
+    "main_contact": [
+        {
+            "@id": "Mohamed Alhaskir.json"
+        }
+    ],
+    "main_file_bundle": [
+        {
+            "@id": "main filebundle.json"
+        }
+    ],
+    "method": [
+        {
+            "@id": "task-rest.json"
+        },
+        {
+            "@id": "MRI-01.json"
+        },
+        {
+            "@id": "fMRI-01.json"
+        }
+    ],
+    "project": null,
+    "publication": [
+        {
+            "@id": "Publication.json"
+        }
+    ],
+    "species": [
+        {
+            "@id": "species.json"
+        }
+    ],
+    "study_target": null,
+    "subject_group": null,
+    "bookmark_instance_link": null
+}
